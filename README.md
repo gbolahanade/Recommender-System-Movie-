@@ -265,4 +265,4 @@ if st.button('Show Recommendation'):
     Web Deployment Using Streamlit: Run the Streamlit app to deploy the movie recommender system on the web.
 
 ## Authors
-TechSquad Team (Gbolahan Michael Adebesin, Folasayo, 
+TechSquad Team (Gbolahan Michael Adebesin, Folasayo, and others)
